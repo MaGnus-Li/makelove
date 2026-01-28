@@ -1,0 +1,4 @@
+DisplayWidget Center
+DisplayWidgetCenter
+ProArt Calibration
+GoPro Player
